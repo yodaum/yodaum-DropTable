@@ -13,7 +13,7 @@ public class DropATableTest {
     private DropATable dropATable = new DropATable();
 
     /**
-     * The before annotation runs before every test so that way we drop the tables to avoid conflicts in future tests.
+     * The before annotation runs before every test so that way we drop the tables to avoid conflicts in future tests
      */
     @Before
     public void beforeTest(){
